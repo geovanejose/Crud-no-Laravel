@@ -5,7 +5,7 @@ CRUD(Create,Read,Update and Delete) com Ajax
 ## Instalação
 - Para Clonar o repositório do projeto no seu computador digite : git clone ```https://github.com/geovanejose/Crud-no-Laravel.git ```
 ### Configuração
-> Em seguida entre na pasta do projeto e utilize o programa make digitando o comando abaixo.
+> Em seguida entre na pasta do crud e utilize o programa make digitando o comando abaixo.
 ```
 $ make conf
 ```
